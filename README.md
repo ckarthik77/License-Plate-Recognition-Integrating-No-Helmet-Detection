@@ -131,7 +131,7 @@ We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md) for deta
 
 <div align="center">
 
-### Made with ❤️ by [Your Team/Organization]
+### Made with ❤️ by [Btech-Badithulamm/LBRCE]
 
 [Report Bug](https://github.com/ckarthik77/License-Plate-Recognition-Integrating-No-Helmet-Detection/issues) · [Request Feature](https://github.com/ckarthik77/License-Plate-Recognition-Integrating-No-Helmet-Detection/issues)
 
